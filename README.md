@@ -54,4 +54,3 @@ O objetivo é apresentar de forma moderna e responsiva uma confeitaria, destacan
 - [shadcn/ui](https://ui.shadcn.com/)
 - [Vercel](https://vercel.com) para deploy
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
